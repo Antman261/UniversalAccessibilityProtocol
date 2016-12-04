@@ -3,6 +3,7 @@ The purpose of the Universal Accessibility Protocol (UAP) is to make every day d
 
 ## Example
 Imagine a lift, to operate it, an able bodied person would:
+
 1. Press the up or down button outside the lift
 2. Enter the lift and select their floor
 3. Optionally hold the door open for someone
@@ -11,6 +12,7 @@ However for a person with limited upper mobility many of these steps might be ha
 
 For a person with limited mobility accessing the same lift:
 (Via smartphone app)
+
 1. Approach lift and open app
 2. App receives call actions: `['Up', 'Down']`, user makes selection
 3. Enter lift and app receives list of available floors: `['B', 'G', '1', '2', '3', '4']`, user makes selection
