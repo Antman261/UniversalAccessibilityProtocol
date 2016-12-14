@@ -1,6 +1,6 @@
 # How to use schemas
 
-Piece together a device specification from the contents of `actionss`, `actionable_nouns`, and `structures` while adhering to the UAP specifications:
+Piece together a device specification from the contents of `actions`, `actionable_nouns`, and `structures` while adhering to the UAP specifications:
 
 1. Only `actions` should be used in a `directives` array. This specifically excludes `actionable_nouns`.
 2. `actionable_nouns` should be listed within a suitable structure such as `destinations`.
