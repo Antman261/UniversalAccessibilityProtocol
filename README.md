@@ -25,7 +25,7 @@ These same steps could be carried out by _any_ client device implementing the UA
 A device broadcasting UAP actions can have these actions displayed in any type of interface, including non-visual ones. Any interface capable of stepping up or down a decision tree and selecting elements can call actions of a UAP broadcast device. So in short, even a device that loops through options and only requires a user to make a single selection should be able to call actions for a UAP broadcaster.
 
 ### Localisation
-Possible actions and tree structures of broadcast actions should be pieced together from pre-defined actions in the UAP specification. This means that a broadcast device will always have its actions displayed in the user's preferred language.
+Available actions for a broadcast device should be pieced together from pre-defined actions in the UAP specification. This means that a broadcast device will always have its actions displayed in the user's preferred language.
 
 ### Locality
 Using short range technologies should limit access to devices to people within range. This is NOT an IoT application and internet connectivity should never be a requirement.
@@ -42,3 +42,5 @@ Broadcast devices also need to be able to communicate a decision tree of actions
 ## Contributing
 UAP requires a well defined set of actions and well defined use cases for its 1.0 spec.
 It also needs a hardware proof of concept, its own `"Hello world!"` if you will.
+
+If you feel capable of contributing either of these things then make sure to get involved! Submit an issue, pull request, or suggestion.

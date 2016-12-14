@@ -1,0 +1,18 @@
+{
+  "destinations": [
+    "Lower Basement", "Basement", "Lower Ground", "Ground", "Upperground",
+    "Platform", "Car park", "Mezzanine", "Subway", "Underground",
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+  ],
+  "destinations": {
+    "basement_levels": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "main_levels": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "carpark_levels": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  "directives": [
+    "Doors open", "Doors close", "Up", "Down", "Go"
+  ],
+  "emergency": [
+    "Stop", "Call"
+  ]
+}
