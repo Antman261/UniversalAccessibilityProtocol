@@ -5,5 +5,8 @@
   "Down",
   "Go",
   "Stop",
-  "Call"
+  "Call",
+  "On",
+  "Off",
+  "Start"
 ]
